@@ -8,3 +8,6 @@ Key Features:
 4. User-Friendly Interface: Intuitive interfaces for both querying and model customization, suitable for developers and researchers alike.
 
 Here, this PDF_QA is used to gain insights on IIIT Una's Information to facilitate student queries. PDF-QA simplifies the process of accessing information buried within PDFs. Accelerate your document analysis workflows with PDF-QA today!
+![NLP_Sample_question](https://github.com/aditichauhan04/-PDF-QA-A-Question-and-Answer-Model-for-PDF-Documents/assets/97681702/1f07529c-d24e-4e16-8ff4-76832ddc1a9e)
+![NLP_Sample2](https://github.com/aditichauhan04/-PDF-QA-A-Question-and-Answer-Model-for-PDF-Documents/assets/97681702/cfb378e9-903c-4c47-a6fa-598e9f3e9729)
+
