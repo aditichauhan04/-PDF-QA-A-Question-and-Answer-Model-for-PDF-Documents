@@ -7,4 +7,4 @@ Key Features:
 3. Fine-tuning Capabilities: Customize and fine-tune models for specific domains or use cases.
 4. User-Friendly Interface: Intuitive interfaces for both querying and model customization, suitable for developers and researchers alike.
 
-Whether you're seeking insights from research papers, legal documents, or technical manuals, PDF-QA simplifies the process of accessing information buried within PDFs. Accelerate your document analysis workflows with PDF-QA today!"
+Here, this PDF_QA is used to gain insights on IIIT Una's Information to facilitate student queries. PDF-QA simplifies the process of accessing information buried within PDFs. Accelerate your document analysis workflows with PDF-QA today!
